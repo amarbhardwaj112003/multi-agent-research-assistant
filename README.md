@@ -168,4 +168,6 @@ AI/ML & Full Stack Developer
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+## © Amar Kumar Singh
+
+All rights reserved.
