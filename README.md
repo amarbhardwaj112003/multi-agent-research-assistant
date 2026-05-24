@@ -68,6 +68,9 @@ Final Structured Output
 
 ## 📸 Screenshots
 
+### 📌 Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
 ### 🏠 Home Interface
 ![Home](screenshots/home.png)
 
