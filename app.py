@@ -82,43 +82,43 @@ header {
     height: 0px !important;
 }
 
-/* Hide top right menu (⋮) + Deploy button area */
-[data-testid="stToolbar"] {
-    display: none !important;
-}
+# /* Hide top right menu (⋮) + Deploy button area */
+# [data-testid="stToolbar"] {
+#     display: none !important;
+# }
 
-/* Hide top decoration line */
-[data-testid="stDecoration"] {
-    display: none !important;
-}
+# /* Hide top decoration line */
+# [data-testid="stDecoration"] {
+#     display: none !important;
+# }
 
-/* Remove top padding caused by header */
-div.block-container {
-    padding-top: 1rem !important;
-}
+# /* Remove top padding caused by header */
+# div.block-container {
+#     padding-top: 1rem !important;
+# }
 
-/* Optional: remove hamburger menu */
-#MainMenu {
-    visibility: hidden !important;
-}
+# # /* Optional: remove hamburger menu */
+# # #MainMenu {
+# #     visibility: hidden !important;
+# # }
 
-/* Optional: remove footer */
-footer {
-    visibility: hidden !important;
-}
+# /* Optional: remove footer */
+# footer {
+#     visibility: hidden !important;
+# }
 
-/* Remove deploy top area */
-[data-testid="stDecoration"] {
-    display: none !important;
-}
+# /* Remove deploy top area */
+# [data-testid="stDecoration"] {
+#     display: none !important;
+# }
 
 
 html, body, [data-testid="stAppViewContainer"] {
     background-color: var(--bg-void) !important;
     font-family: var(--font-body) !important;
     color: var(--ink-1) !important;
-    with: 100% !important;
-    height: 100% !important;
+    # with: 100% !important;
+    # height: 100% !important;
 }
 
 [data-testid="stSidebar"] {
